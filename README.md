@@ -4,4 +4,4 @@
 </div>
 
 
-<p align="center">@ephemeraljackpot average tuesday fatnanagans </p>
+<div align="center"> <a href="https://github.com/ephemeraljackpot">@ephemeraljackpot forever fatnanigans </a>
