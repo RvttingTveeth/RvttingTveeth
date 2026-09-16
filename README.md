@@ -6,7 +6,6 @@
 
 <div align="center"> <a href="https://github.com/ephemeraljackpot">@ephemeraljackpot forever fatnanigans </a>
 
-<p align="center">8/8/2026 </p>
 
 ![](https://komarev.com/ghpvc/?username=RvttingTveeth&color=534f65&label=ᴘaʀasɪtᴇs​)
 
