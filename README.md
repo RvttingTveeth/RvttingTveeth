@@ -4,7 +4,7 @@
 </div>
 
 
-<div align="center"> <a href="https://github.com/ephemeraljackpot">@ephemeraljackpot forever fatnanigans </a>
+
 
 
 ![](https://komarev.com/ghpvc/?username=RvttingTveeth&color=534f65&label=ᴘaʀasɪtᴇs​)
